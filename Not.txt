@@ -1,0 +1,5 @@
+ @BeforeClass : Test sınıfımız çalışrığında enbaşta sadece 1 defa çalışır.
+@Before : Hertest metodundan önce bir kez çalışır.
+@Test : Test metodları belirlemek için kullanılır.
+@After : Her test metodundan sonra bir kez çalışır.
+@AfterClass : Test sınıfımız çalıştığında en son sadece bir kez çalışır.
